@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<h1 align="center">✨ Hi, I'm <strong>Laasya Vajjala</strong> ✨</h1>
+<h1 align="center">✨ Hi, I'm <strong>Laasya</strong> ✨</h1>
 <h3 align="center">AI Research Technologist • AI/ML Engineer • Artist</h3>
 
 <!-- BADGES -->
