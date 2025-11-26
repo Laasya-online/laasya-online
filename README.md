@@ -100,10 +100,10 @@ Time-series anomaly detection with **LSTM** to surface suspicious network behavi
 
 ## 🌤️ Vibe Panel
 
-- 📖 **Book:** *The Secret* — Rhonda Byrne  
-- ❄️ **Weather:** Winter
+- 📖 **Book:** *The Secret* — Rhonda Byrne   
+- ❄️ **Weather:** Winter • Monsoon
 - 🎨 **Color:** Navy
-- 🎬 **Favorite Worlds:** Attack On Titans • Black Clover 
+- 🎬 **Favorite Worlds:** Attack On Titans • Black Clover • Dr. Stone
 
 ---
 
